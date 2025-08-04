@@ -1,0 +1,5 @@
+# Tools Used
+
+~IBM Cloud lite services
+~Natural Language Processing (NLP)
+~IBM Granite model
